@@ -11,3 +11,5 @@ def sum
     end
   end
 end
+
+sum
